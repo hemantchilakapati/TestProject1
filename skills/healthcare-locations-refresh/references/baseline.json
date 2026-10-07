@@ -1,0 +1,8 @@
+{
+  "_date": "2026-10-07",
+  "_note": "Counts and key-field fill rates from the first full run. Used for checks only when no previous workbook is supplied.",
+  "jefferson": {"count": 447, "fill": {"Name": 1.0, "Street Address": 1.0, "City": 1.0, "Phone": 0.98, "Latitude": 1.0}},
+  "lvhn": {"count": 843, "fill": {"Name": 1.0, "Street Address": 1.0, "City": 1.0, "Phone": 0.93, "Latitude": 1.0}},
+  "quest": {"count": 2302, "fill": {"Name": 1.0, "Street Address": 1.0, "City": 0.98, "Phone": 1.0, "Latitude": 1.0}},
+  "labcorp": {"count": 2273, "fill": {"Name": 1.0, "Street Address": 1.0, "City": 1.0, "Phone": 1.0, "Latitude": 1.0}}
+}
